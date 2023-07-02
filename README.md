@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinil Shukla</h1>
 <h3 align="center">A passionate CS Undergrad from India</h3>
 
-- 🔭 I’m currently working on **Research project on Lung Cancer detection using Machine Learning Techniques**
-
 - 🌱 I’m currently learning **Deep Learning and Transfer Learning**
 
-- 👯 I’m looking to collaborate on **Software Projects requiring ML infra**
+- 👯 I’m looking to collaborate on **Software Projects **
 
 - 🤝 I’m looking for help with **Leetcode Problems**
 
