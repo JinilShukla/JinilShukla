@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Transfer Learning**
 
-- 👯 I’m looking to collaborate on **Software Projects **
+- 👯 I’m looking to collaborate on **Software Projects ** and **Linux Projects**
 
 - 🤝 I’m looking for help with **Leetcode Problems**
 
